@@ -11429,3 +11429,7 @@ video.bg-video {
     width: auto;
   }
 }
+
+#title {
+  color: #77bc30ff;
+}
