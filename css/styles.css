@@ -11433,3 +11433,11 @@ video.bg-video {
 #title {
   color: #77bc30ff;
 }
+
+#title span {
+  display: inline-block;
+  font-size: 80%;
+  margin-left: -3px;
+  opacity: 80%;
+  width: 12px;
+}
